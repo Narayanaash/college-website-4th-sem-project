@@ -1,0 +1,32 @@
+@media (min-width: 320px) and (max-width: 480px) {
+    * {
+        padding: 0;
+        margin: 0;
+    }
+    
+.header {
+  margin-top: 20px;
+} 
+    body {
+        background-size: auto;
+    }
+    .error {
+        width: 80%;
+        margin: 0;
+        margin-top: -15px;
+        border: 0;
+        background-color: transparent;
+        text-align: center;
+    }
+.input-group {
+    margin: -5px 0px -5px 0px;
+}
+    .h2, h2 {
+    font-size: 20px;
+        margin: 0;
+}
+    .image{
+        margin-top: 50px;
+    }
+
+}

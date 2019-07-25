@@ -1,0 +1,21 @@
+@media (min-width: 320px) and (max-width: 480px) {
+    * {
+        padding: 0;
+        margin: 0;
+    }
+    
+.header {
+  width: 80%;
+  margin-top: 100px;
+}
+form, .content {
+  width: 80%;
+}
+    #login-body{
+        background-size: auto;
+    }
+    .input-group {
+    margin: 20px 0px 20px 0px;
+}
+
+}

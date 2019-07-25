@@ -1,0 +1,73 @@
+@media (min-width: 320px) and (max-width: 480px) {
+    * {
+        padding: 0;
+        margin: 0;
+    }
+    .groupBox {
+        float: left;
+        margin: auto;
+        margin-top: 10px;
+        width: -webkit-fill-available;
+        font-size: 11px;
+        padding: 0;
+    }
+    table td{
+        padding: 4px;
+    }
+    table{
+        overflow-x: hidden;
+    }
+    .gtable{
+        margin-left: -15px;
+        width: 385px;
+        height: 208px;
+    }
+    .addGroupBox{
+        float: left;
+        margin-left: 0;
+        width: -webkit-fill-available;
+        margin-top: -790px;
+    }
+    .user-box {
+    width: -webkit-fill-available;
+    margin-top: 350px;
+    margin-left: 0;
+}
+    .statusBox {
+    margin-left: 0;
+    width: -webkit-fill-available;
+    height: 500px;
+    margin-top: 569px;
+    margin-bottom: 30px;
+}
+    .right .header {
+    width: auto;
+    margin-top: 0;
+    border-radius: 5px;
+    height: 40px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+    #status{
+    margin-top: 12px;
+    margin-left: 9px;
+    padding-top: 20px;
+    padding-left: 5px;
+    height: 55px;
+    border-radius: 5px;
+    resize: none;
+    width: 265px;
+
+    }
+    .user_msg {
+    width: 90%;
+    height: 350px;
+    margin: auto;
+    margin-top: 10px;
+}
+    #status-div {
+        margin-right: 25px;
+        margin-left: 25px;
+        padding-top: 18px;
+    }
+}

@@ -1,0 +1,13 @@
+#imageform {
+    width: 200px; 
+    position: absolute;
+    padding: 20px; 
+    border: 1px solid #B0C4DE;  
+    border-radius: 0px 0px 10px 10px; 
+    margin-left: 1050px;
+    margin-top: 160px;
+    background-color: transparent;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
